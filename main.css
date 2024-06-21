@@ -1,4 +1,9 @@
+body {
+    background-color: black;
+}
+
 .index {
     display: flex;
     flex-direction: column;
+
 }
